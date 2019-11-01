@@ -1,0 +1,7 @@
+
+----手写运行时兼容注入事件。
+
+事件三要素：
+1. 订阅的方式 - setOnclickListener
+2. 事件源对象 - View.OnclickListener
+3. 具体执行的方法 - 消费
